@@ -8,7 +8,7 @@
       <priority>1.0</priority>
    </url>
 
-   <!-- Stran o trgovini (predpostavljam, da je to tvoja Shopify trgovina) -->
+   <!-- Stran o trgovini -->
    <url>
       <loc>https://www.starko-sale.com/shop</loc>
       <lastmod>2024-09-30</lastmod>
@@ -16,7 +16,7 @@
       <priority>1.0</priority>
    </url>
 
-   <!-- Posamezni izdelki (iz tvoje trgovine) -->
+   <!-- Posamezni izdelki -->
    <url>
       <loc>https://www.starko-sale.com/shop/wireless-earbuds</loc>
       <lastmod>2024-09-30</lastmod>
@@ -30,4 +30,26 @@
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://www.starko-sale.com/shop/smart-watch
+      <loc>https://www.starko-sale.com/shop/smart-watch-series-5</loc>
+      <lastmod>2024-09-30</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+   <!-- Kontaktna stran -->
+   <url>
+      <loc>https://www.starko-sale.com/contact</loc>
+      <lastmod>2024-09-30</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+   <!-- Stran o trgovini -->
+   <url>
+      <loc>https://www.starko-sale.com/about</loc>
+      <lastmod>2024-09-30</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </url>
+</urlset>
+
